@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = "https://rocio-floresduran.web.app/portfolio")
+@CrossOrigin(origins = "https://rocio-floresduran.web.app")
 public class ProyectoController {
     
     @Autowired
